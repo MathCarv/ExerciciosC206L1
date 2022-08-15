@@ -1,6 +1,6 @@
-package com.exercicios_aula_01;
+package Exercicios.Aula;
+
 import java.util.Scanner;
-import java.lang.Math;
 
 public class Exercicio_01 {
     public static void main(String[] args) {

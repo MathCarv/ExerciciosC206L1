@@ -2,7 +2,7 @@ package com.exercicios;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Aula01 {
+public class Exercicio_01 {
     public static void main(String[] args) {
         double primeironumero, segundonumero, resultado;
         String escolha;

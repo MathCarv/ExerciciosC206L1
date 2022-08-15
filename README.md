@@ -1,2 +1,2 @@
-# ExerciciosC206L1
+# Exercicios C206-L1
 Repositório criado para armazenar as resoluções dos exercícios da matéria C206-L1

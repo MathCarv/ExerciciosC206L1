@@ -31,7 +31,7 @@ public class Exercicio_01 {
         System.out.print("Digite a operacao desejada: " +
                     "\n1 - Soma" +
                     "\n2 - Subtracao" +
-                    "\n3 - Multiplicacao" +
+                    "\n3 - Multiplicacao " +
                     "\n4 - Divisao" +
                     "\n5 - Exponencial" +
                     "\n-> ");

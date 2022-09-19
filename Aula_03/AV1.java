@@ -1,4 +1,4 @@
-package Exercicios.Aula_03;
+
 import java.util.Scanner;
 
 public class AV1 {
